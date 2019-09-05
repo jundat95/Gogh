@@ -1,4 +1,4 @@
-Gogh
+Gogh 11
 ====
 
 ![elementary](https://raw.githubusercontent.com/Mayccoll/Gogh/master/images/gogh/Gogh-icons.png)
