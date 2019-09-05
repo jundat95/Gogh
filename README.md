@@ -1,7 +1,7 @@
 Gogh 11
 ====
 
-dev 1233456xxxx
+master 2222
 
 ![elementary](https://raw.githubusercontent.com/Mayccoll/Gogh/master/images/gogh/Gogh-icons.png)
 
