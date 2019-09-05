@@ -19,8 +19,11 @@ h1
 
 hello world
 
+<<<<<<< master
 h1
 
+=======
+>>>>>>> hu hu
 <br/>
 <br/>
 
